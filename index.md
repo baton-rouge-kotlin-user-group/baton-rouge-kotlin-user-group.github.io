@@ -1,1 +1,1 @@
-Welcome to the BRKUG website.
+Welcome to the Baton Rouge Kotlin User Group (BRKUG) website.
